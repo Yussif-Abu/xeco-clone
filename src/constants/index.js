@@ -6,7 +6,7 @@ export const navLinks = [
     { href: "#home", label: "HOME" },
     { href: "#features", label: "FEATURES" },
     { href: "#ico-chart", label: "ICO CHART" },
-    { href: "#road-map", label: "ROAD MAP" },
+    { href: "#team", label: "TEAM" },
     { href: "#blog", label: "BLOG" },
     { href: "#contact", label: "CONTACT" },
 ];
